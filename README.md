@@ -17,7 +17,6 @@ Audio after impainting:
 
 
 Original audio waveform with gaps marked:
-
 <img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/original_audio.jpg" width="700" height="500">
 
 Train and test data with newly added gaps and relevant contexts shown:
@@ -25,20 +24,26 @@ Train and test data with newly added gaps and relevant contexts shown:
 
 
 Spectrogram of first gap and contexts after performing STFT:
-<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/stft.jpg" width="700" height="500">
+
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/stft.jpg" width="400" height="400">
 
 
 Spectrogram and waveform of the first gap predicted using UNET model:
-<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/Unet.jpg" width="700" height="500">
+
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/Unet.jpg" width="800" height="600">
 
 
 Spectrogram and waveform of the first gap predicted using CNN model:
-<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/cnn_gap.jpg" width="700" height="500">
+
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/cnn_gap.jpg" width="800" height="200">
+
 
 Spectrogram and waveform of the first gap predicted using the encoder-decoder model:
-<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/encoder_decoder_gap.jpg" width="700" height="500">
+
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/encoder_decoder_gap.jpg" width="800" height="200">
 
 
 Final audio filled in using model predictions:
+
 <img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/final_audio.jpg" width="700" height="500">
 
