@@ -9,5 +9,5 @@ By employing the Short-Time Fourier Transform (STFT) technique, the audio is tra
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE]
 
-[![IMAGE ALT TEXT HERE](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/Images/youtube.png)]([https://www.youtube.com/watch?v=ifMcBhQmidI]
+[![IMAGE ALT TEXT HERE](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/Images/youtube.jpeg)]([https://www.youtube.com/watch?v=ifMcBhQmidI]
 
