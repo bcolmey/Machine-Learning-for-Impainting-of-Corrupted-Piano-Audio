@@ -5,8 +5,11 @@ By employing the Short-Time Fourier Transform (STFT) technique, the audio is tra
 
 A full description of the code can be found here:https://medium.com/@benjamincolmey/using-machine-learning-for-impainting-of-corrupted-piano-audio-11907e121f6e
 
+Original audio:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ifMcBhQmidI/0.jpg)](https://www.youtube.com/watch?v=ifMcBhQmidI)
 
+Audio after impainting:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7tZy8RvBF5c/0.jpg)](https://www.youtube.com/watch?v=7tZy8RvBF5c)
 
 
 Original audio waveform with gaps marked:
