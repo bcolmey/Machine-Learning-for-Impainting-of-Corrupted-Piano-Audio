@@ -5,10 +5,14 @@ By employing the Short-Time Fourier Transform (STFT) technique, the audio is tra
 
 A full description of the code can be found here:https://medium.com/@benjamincolmey/using-machine-learning-for-impainting-of-corrupted-piano-audio-11907e121f6e
 
+
 Original audio:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ifMcBhQmidI/0.jpg)](https://www.youtube.com/watch?v=ifMcBhQmidI)
 
+
 Audio after impainting:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7tZy8RvBF5c/0.jpg)](https://www.youtube.com/watch?v=7tZy8RvBF5c)
 
 
@@ -22,13 +26,13 @@ Spectrogram of first gap and contexts after performing STFT:
 ![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/stft.jpg)
 
 Spectrogram and waveform of the first gap predicted using UNET model:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/cnn_gap.jpg)
-
-Spectrogram and waveform of the first gap predicted using CNN model:
 ![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/Unet.jpg)
 
+Spectrogram and waveform of the first gap predicted using CNN model:
+![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/cnn_gap.jpg)
+
 Spectrogram and waveform of the first gap predicted using the encoder-decoder model:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/encoder_decoder_gap.jpg)
+![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/encoder_decoder_gap.png)
 
 Final audio filled in using model predictions:
 ![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/final_audio.jpg)
