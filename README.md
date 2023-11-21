@@ -5,16 +5,28 @@ By employing the Short-Time Fourier Transform (STFT) technique, the audio is tra
 
 A full description of the code can be found here:https://medium.com/@benjamincolmey/using-machine-learning-for-impainting-of-corrupted-piano-audio-11907e121f6e
 
-
-Original audio:
+## Original audio:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ifMcBhQmidI/0.jpg)](https://www.youtube.com/watch?v=ifMcBhQmidI)
 
 
-Audio after impainting:
-
+## Audio after impainting:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7tZy8RvBF5c/0.jpg)](https://www.youtube.com/watch?v=7tZy8RvBF5c)
 
+
+
+## Running
+
+To run this code simply clone this repository and run the main.py script with python (the pydub, keras, tenserflow modules are required):
+ 
+```
+$ git clone https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio
+$ cd Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio
+$ python main.py 
+```
+
+
+## Some important steps and plots from the code:
 
 Original audio waveform with gaps marked:
 <img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/original_audio.jpg" width="700" height="500">
