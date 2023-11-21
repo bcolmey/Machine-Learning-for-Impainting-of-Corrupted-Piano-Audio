@@ -17,22 +17,28 @@ Audio after impainting:
 
 
 Original audio waveform with gaps marked:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/original_audio.jpg)
+
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/original_audio.jpg" width="700" height="500">
 
 Train and test data with newly added gaps and relevant contexts shown:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/train_test_data.jpg)
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/train_test_data.jpg" width="700" height="500">
+
 
 Spectrogram of first gap and contexts after performing STFT:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/stft.jpg)
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/stft.jpg" width="700" height="500">
+
 
 Spectrogram and waveform of the first gap predicted using UNET model:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/Unet.jpg)
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/Unet.jpg" width="700" height="500">
+
 
 Spectrogram and waveform of the first gap predicted using CNN model:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/cnn_gap.jpg)
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/cnn_gap.jpg" width="700" height="500">
 
 Spectrogram and waveform of the first gap predicted using the encoder-decoder model:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/encoder_decoder_gap.png)
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/encoder_decoder_gap.jpg" width="700" height="500">
+
 
 Final audio filled in using model predictions:
-![alt text](https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/final_audio.jpg)
+<img src="https://github.com/bcolmey/Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio/blob/main/Images/final_audio.jpg" width="700" height="500">
+
