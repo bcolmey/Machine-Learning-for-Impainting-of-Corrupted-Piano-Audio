@@ -1,7 +1,7 @@
 # Machine-Learning-for-Impainting-of-Corrupted-Piano-Audio
 I recently digitized some old VHS cassette tapes and stumbled upon a recording of my first piano recital. Unfortunately, the audio was significantly corrupted. To remedy this, I turned to machine learning for audio inpainting, aiming to restore the corrupted sections. The process started by analyzing the original piano recording to identify and characterize silences and gaps. I then pre-processed the piano recording to standardize the gaps sizes, before performing data acquisition to obtain training and testing datasets with similar gaps for a controlled study. 
 
-By employing the Short-Time Fourier Transform (STFT) technique, the audio is transformed into a format conducive to deep learning analysis. I experimented with a variety of loss functions and tested different machine learning models, comparing their effectiveness in inpainting the audio. This endeavor was a fascinating journey into the intersection of digital audio restoration and machine learning. 
+By employing the Short-Time Fourier Transform (STFT) technique, the audio is transformed into a format conducive to deep learning. I experimented with a variety of loss functions and tested different machine learning models, comparing their effectiveness in inpainting the audio. This endeavor was a fascinating journey into the intersection of digital audio restoration and machine learning. 
 
 A full description of the code can be found here:https://medium.com/@benjamincolmey/using-machine-learning-for-impainting-of-corrupted-piano-audio-11907e121f6e
 
