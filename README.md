@@ -3,7 +3,7 @@ I recently digitized some old VHS cassette tapes and stumbled upon a recording o
 
 By employing the Short-Time Fourier Transform (STFT) technique, the audio is transformed into a format conducive to deep learning. I experimented with a variety of loss functions and tested different machine learning models, comparing their effectiveness in inpainting the audio. This endeavor was a fascinating journey into the intersection of digital audio restoration and machine learning. 
 
-A full description of the code can be found [here](https://medium.com/@benjamincolmey/using-machine-learning-for-impainting-of-corrupted-piano-audio-11907e121f6e)
+A full description of the code can be found [here](https://medium.com/@benjamincolmey/using-machine-learning-to-inpaint-corrupted-piano-audio-5bab24db17f1)
 
 ## Original audio:
 
