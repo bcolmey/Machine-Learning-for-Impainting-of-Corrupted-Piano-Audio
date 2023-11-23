@@ -11,8 +11,7 @@ A full description of the code can be found [here](https://medium.com/@benjaminc
 
 
 ## Audio after inpainting:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7tZy8RvBF5c/0.jpg)](https://www.youtube.com/watch?v=7tZy8RvBF5c)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R4eWZ_TFa4E/0.jpg)](https://www.youtube.com/watch?v=R4eWZ_TFa4E)
 
 
 ## Running
